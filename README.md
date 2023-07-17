@@ -1,9 +1,9 @@
-<a name="readme-top">Awesome Books ES6</a>
+
 
 <div align="center">
   
 
-  <h3><b>Awesome Books Project with ES6</b></h3>
+  <h1><b>Awesome Books Project with ES6</b></h1>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 # 📖 <a name="about-project">Awesome Books ES6 Project</a>
 
-**[Awesome Books ES6]** is a Website to save books in the localStorage, and see the list of the books saved.
+**Awesome Books ES6** is a Website to save books in the localStorage, and see the list of the books saved.
 
 ## 🛠 Built With <a name="built-with">HTML5 & CSS3 & JS</a>
 
@@ -92,7 +92,7 @@ A computer
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone https://github.com/BiancaMe/CapstoneProject.git
+git clone https://github.com/BiancaMe/Awesome-ES6
 
 ### Usage
 
@@ -117,7 +117,7 @@ To run the project, double click on the index to open it in the browser.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add a market for buy **
+- [ ] **Add more information about Books**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,6 +152,5 @@ I would like to thank cc Creative Commons for letting me use their design and le
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-This project is [cc Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/#) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
