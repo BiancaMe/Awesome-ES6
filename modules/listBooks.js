@@ -1,12 +1,12 @@
 /* eslint-disable max-len */
 class listBooks {
-  static getBooks() {
+  static getBooks = () => {
     let books = [];
     if (localStorage.getItem('books') != null) { books = JSON.parse(localStorage.getItem('books')); }
     return books;
   }
 
-  static addBook(book) {
+  static addBook = (book) => {
     const books = listBooks.getBooks();
     const arr = Array.from(books);
     arr.push(book);
@@ -14,7 +14,7 @@ class listBooks {
     this.addBookDOM(book);
   }
 
-  static addBookDOM(book) {
+  static addBookDOM = (book) => {
     const newBook = document.createElement('tr');
     newBook.setAttribute('class', 'book');
     newBook.innerHTML = `<td class="title"> ${book.title} </td>
@@ -24,7 +24,7 @@ class listBooks {
     document.querySelector('#list-books').append(newBook);
   }
 
-  static removeBook(target) {
+  static removeBook = (target) => {
     // Remove LocalStorage
     const books = listBooks.getBooks();
     const title = target.previousElementSibling.previousElementSibling.previousElementSibling.textContent;

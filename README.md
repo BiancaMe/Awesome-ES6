@@ -1,9 +1,9 @@
-<a name="readme-top">Awesome Books ES6</a>
+
 
 <div align="center">
   
 
-  <h3><b>Awesome Books Project with ES6</b></h3>
+  <h1><b>Awesome Books Project with ES6</b></h1>
 
 </div>
 
@@ -152,6 +152,5 @@ I would like to thank cc Creative Commons for letting me use their design and le
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-This project is [cc Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/#) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
